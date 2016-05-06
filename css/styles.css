@@ -1,0 +1,11 @@
+/* add your CSS here */
+#bold{
+	font-weight: bold; 
+	font-style: normal;
+}
+.italic{
+	font-style: italic;
+}
+.animal{
+     font-weight: bold
+}
