@@ -1,11 +1,29 @@
 /* add your CSS here */
+.box{
+	border-style: outset;
+   width:400px;
+   box-shadow: 3px 3px  3px; 
+}
+
+
+.box2{
+
+}
+
+#image{
+	width:300px;
+}
+
 #bold{
 	font-weight: bold; 
 	font-style: normal;
 }
+
 .italic{
 	font-style: italic;
 }
+
 .animal{
      font-weight: bold
 }
+
