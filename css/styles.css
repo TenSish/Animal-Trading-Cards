@@ -7,6 +7,11 @@
 
 
 .box2{
+	border-style: outset;
+	box-sizing: 350px;
+	margin-left:25px;
+	margin-bottom: 20px;
+	width:350px;
 
 }
 
